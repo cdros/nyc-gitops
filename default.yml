@@ -20,7 +20,7 @@ org_settings:
     server_url: $FLEET_URL
   org_info:
     org_name: SomeOrganizationName
-  webook_settings:
+  webhook_settings:
     activitivies_webhook:
       enable_activities_webhook: true
       destination_url: https://webhook.site/f716ac38-01a0-480d-8792-ecc1b0664fa9

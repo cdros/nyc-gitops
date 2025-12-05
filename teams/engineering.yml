@@ -28,7 +28,6 @@ controls:
    ipados_updates:
       deadline: "2025-12-31"
       minumum_version: "26.0"
-      
   scripts:
     - path: ../lib/macos/scripts/remove-zoom-artifacts.script.sh
     - path: ../lib/macos/scripts/set-timezone.script.sh
